@@ -1,2 +1,1 @@
-# vanity-sniper
-discord vanity sniper
+böyle işlerin sonu yok
